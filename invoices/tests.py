@@ -1,0 +1,2 @@
+# Here, we will write test cases for each API endpoint, ensuring they handle GET, POST, PUT, DELETE correctly.
+# The test cases in invoices/tests.py should cover all aspects of the API, including creating invoices, updating them, deleting, and listing.
